@@ -1,2 +1,2 @@
 # grouponeapp
-Fellows Project
+Fellows Project without a database
